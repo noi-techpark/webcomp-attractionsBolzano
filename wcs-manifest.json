@@ -1,10 +1,10 @@
 {
-  "title": "Hello-world",
-  "shortName": "hello-world-2",
-  "description": "Hello world simple webcomp example",
-  "descriptionAbstract": "Hello world simple webcomp example",
+  "title": "tourist-attractions-bolzano",
+  "shortName": "attractions-bolzano",
+  "description": "This project consist of a responsive web component which displays information on Cultural Attractions, Skiing Locations and more.",
+  "descriptionAbstract": "This project consist of a responsive web component which displays information on Cultural Attractions, Skiing Locations and more.",
   "license": "AGPL-3.0-or-later",
-  "repositoryUrl": "https://your-repository.git",
+  "repositoryUrl": "https://github.com/noi-techpark/webcomp-attractionsBolzano",
   "copyrightHolders": [
     {
       "name": "NOI",
@@ -15,10 +15,16 @@
   ],
   "authors": [
     {
-      "name": "...",
-      "email": "...",
-      "organization": "...",
-      "organizationUrl": "..."
+      "name": "Fabio Schick",
+      "email": "Fabio.Schick@student.unibz.it",
+      "organization": "UNIBZ",
+      "organizationUrl": "https://www.unibz.it/"
+    },
+    {
+      "name": "Ridvan Plluzhina",
+      "email": "Ridvan.Plluzhina@student.unibz.it",
+      "organization": "UNIBZ",
+      "organizationUrl": "https://www.unibz.it/"
     }
   ],
   "image": "webcomponent-Image.png",
@@ -32,17 +38,6 @@
     ]
   },
   "configuration": {
-    "tagName": "hello-world",
-    "options": [
-      {
-        "key": "title",
-        "type": "text",
-        "label": "title of the web-comp",
-        "required": false,
-        "options": {
-          "default": "hello-world"
-        }
-      }
-    ]
+	// no configuration options for now
   }
 }
