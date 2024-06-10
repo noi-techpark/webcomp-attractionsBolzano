@@ -1,0 +1,43 @@
+{
+  "title": "tourist-attractions-bolzano",
+  "shortName": "attractions-bolzano",
+  "description": "This project consist of a responsive web component which displays information on Cultural Attractions, Skiing Locations and more.",
+  "descriptionAbstract": "This project consist of a responsive web component which displays information on Cultural Attractions, Skiing Locations and more.",
+  "license": "AGPL-3.0-or-later",
+  "repositoryUrl": "https://github.com/noi-techpark/webcomp-attractionsBolzano",
+  "copyrightHolders": [
+    {
+      "name": "NOI",
+      "email": "info@noi.bz.it",
+      "organization": "NOI S.p.A",
+      "organizationUrl": "https://noi.bz.it"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Fabio Schick",
+      "email": "Fabio.Schick@student.unibz.it",
+      "organization": "UNIBZ",
+      "organizationUrl": "https://www.unibz.it/"
+    },
+    {
+      "name": "Ridvan Plluzhina",
+      "email": "Ridvan.Plluzhina@student.unibz.it",
+      "organization": "UNIBZ",
+      "organizationUrl": "https://www.unibz.it/"
+    }
+  ],
+  "image": "webcomponent-Image.png",
+  "searchTags": [],
+  "dist": {
+    "basePath": "dist",
+    "files": [
+      "webcomp-boilerplate.min.js"
+    ],
+    "scripts": [
+    ]
+  },
+  "configuration": {
+	// no configuration options for now
+  }
+}
