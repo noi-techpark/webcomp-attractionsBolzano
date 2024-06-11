@@ -27,7 +27,7 @@
       "organizationUrl": "https://www.unibz.it/"
     }
   ],
-  "image": "webcomponent-Image.png",
+  "image": "wcs-Logo.png",
   "searchTags": [],
   "dist": {
     "basePath": "dist",
@@ -38,5 +38,6 @@
     ]
   },
   "configuration": {	
+    "tagName": "webcomp-attractions-bolzano"
   }
 }
