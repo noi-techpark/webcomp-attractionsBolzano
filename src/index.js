@@ -36,11 +36,12 @@ class MainPage extends HTMLElement {
 					align-items: center;
 				}
 			</style>
-
-			<div class="body">
-			</div>
+			
+				<attractions-page></attractions-page>
+				<ski-resort-page></ski-resort-page>
+				<camping-page></camping-page>
 		`;
 	}
 }
 
-customElements.define('main-page', MainPage);
+customElements.define('webcomp-attractions-bolzano', MainPage);
