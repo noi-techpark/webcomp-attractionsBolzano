@@ -10,7 +10,7 @@ module.exports = {
   output: {
     filename: 'webcomp-boilerplate.js',
     clean: true
-  },
+  },  
   devServer: {
     static: './public',
     port: 8998,

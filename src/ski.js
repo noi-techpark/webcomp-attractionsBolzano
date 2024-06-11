@@ -1,4 +1,8 @@
-const data = require("/public/data.json");
+// SPDX-FileCopyrightText: NOI Techpark <digital@noi.bz.it>
+//
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
+const data = require("./data.json");
 
 class SkiResortPage extends HTMLElement {
 	constructor() {

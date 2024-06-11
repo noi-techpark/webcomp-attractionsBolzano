@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: webcomp-tourism-skiareas
+Upstream-Contact: NOI Techpark <digital@noi.bz.it>
+Source: https://github.com/noi-techpark/webcomp-tourism-skiareas
+
+Files: .github/* infrastructure/* .gitignore .pre-commit-config.yaml LICENSE.md .editorconfig *.png *.jpg *.json .env.example wcs-logo.png
+Copyright: (c) NOI Techpark <digital@noi.bz.it>
+License: CC0-1.0
+
+Files: dist/webcomp-boilerplate.min.js public/webcomp-boilerplate.js
+Copyright: (c) NOI Techpark <digital@noi.bz.it>
+License: AGPL-3.0-or-later
